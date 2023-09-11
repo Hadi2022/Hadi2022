@@ -9,7 +9,7 @@
 
 - 📫 Contáctame **contacto@hadi.es**
 
-- ⚡ Dato de mi: futuro estudiante en **42Málaga**
+- ⚡ Dato de mi: estudiante en **42Málaga**
 
 
 <h3 align="center">Lenguajes y herramientas:</h3>
