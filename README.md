@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente aprendiendo **Laravel**
 
-- 👨‍💻 Mi portafolio (proximamente) en [hadi.es](hadi.es)
+- 👨‍💻 Mi portafolio (proximamente) en [hadi.es](http://hadi.es)
 
 - 📫 Contáctame **contacto@hadi.es**
 
