@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋 Soy Hadi</h1>
 <h3 align="center">Estudiante de desarrollo web</h3>
 
+- 👨‍💻 Visita mi web en [hadi.es](http://hadi.es)
+
 - 🔭 Actualmente trabajando en [haditask](http://haditask.es)
 
 - 🌱 Actualmente aprendiendo **Laravel**
-
-- 👨‍💻 Visita mi web en [hadi.es](http://hadi.es)
 
 - 📫 Contáctame **contacto@hadi.es**
 
