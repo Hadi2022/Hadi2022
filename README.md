@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajando en [haditask](http://haditask.es)
 
-- 🌱 Actualmente aprendiendo **Laravel**
+- 🌱 Actualmente aprendiendo **React**
 
 - 📫 Contáctame **contacto@hadi.es**
 
