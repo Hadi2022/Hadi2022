@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **HadiNet**
+- 🔭 I’m currently working on a task manager: **HadiTask**
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [hadi.es](hadi.es)
 
-- 📄 Know about my experiences [hadi.es/proyectos](hadi.es/proyectos)
-
-- ⚡ Fun fact **I like chocolate**
+- 📄 Know about my experiences [hadi.es/proyectos](https://hadi.es/proyectos)
 
 
 <p align="left">
